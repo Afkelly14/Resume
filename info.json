@@ -1,0 +1,27 @@
+
+  {
+    "name": "Alexandra Kelly",
+    "website": "https://github.com/Afkelly14",
+    "linkedin": "https://www.linkedin.com/in/alexkelly14/",
+    "github": "Afkelly14",
+    "email": "afkelly14@gmail.com",
+    "resume": "https://github.com/Afkelly14/Resume",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "French",
+        "Saxophone",
+        "Adobe"
+    ]
+}
